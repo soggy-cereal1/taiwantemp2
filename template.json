@@ -3,31 +3,15 @@
   "contact": "https://discord.placetw.com",
   "templates": [
     {
-      "name": "P3ACE: Penguin sipping bubble tea",
+      "name": "Taiwan Text",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
-      ],
-      "x": 1239,
-      "y": 1158
-    },
-    {
-      "name": "Taiwan (Bear, Bubble tea, Taipei 101)",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_101px_tp101_1.png"
+        "https://raw.githubusercontent.com/soggy-cereal1/taiwantemp2/main/assets/taiwan.jpg"
       ],
       "x": 903,
-      "y": 1421
+      "y": 1406
     }
   ],
   "whitelist": [
-    {
-      "name": "Baltics",
-      "url": "https://gist.githubusercontent.com/Sidges/e0e7158ec9ba82feeb19feea1f7f9997/raw "
-    },
-    {
-      "name": "UGA",
-      "url": "https://gachaalliance.github.io/place2023/template.json"
-    }
   ],
   "blacklist": []
 }
